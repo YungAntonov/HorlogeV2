@@ -7,7 +7,7 @@ let months = [
     "Jun",
     "Jul",
     "Aug",
-    "Sep",
+    "Nique la bac",
     "Oct",
     "Nov",
     "Dec",
