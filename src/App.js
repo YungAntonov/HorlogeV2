@@ -5,7 +5,6 @@ import ContextAlarm from './components/context/ContextAlarm';
 import DigitalClock from './components/DigitalClock/DigitalClock';
 import BannerCustom from './components/BannerCustom/BannerCustom';
 import React from 'react';
-import Logo from './components/Logo';
 
 
 function App() {
@@ -16,7 +15,6 @@ function App() {
         <div className="clock__content grid">
           <ContextAlarm>
             <BannerCustom/>
-            <Logo/>
             <AnalogClock />
             <DigitalClock />
             <AlarmOption />
@@ -28,3 +26,4 @@ function App() {
 }
 
 export default App;
+
