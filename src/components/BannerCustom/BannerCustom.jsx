@@ -1,9 +1,8 @@
 import React from 'react'
 import Banner from 'react-banner'
 import 'react-banner/dist/style.css'
-import './bannercustom.css'
-import Logo from '../Logo'
-
+import './bannercustom.scss'
+import Logo from '../Logo/Logo'
 
 export default props => {
     return (
